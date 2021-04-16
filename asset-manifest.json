@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gyuhwung.github.io/csb-x1fxc/static/css/main.164d6266.chunk.css",
+    "main.js": "https://gyuhwung.github.io/csb-x1fxc/static/js/main.5edc71a7.chunk.js",
+    "main.js.map": "https://gyuhwung.github.io/csb-x1fxc/static/js/main.5edc71a7.chunk.js.map",
+    "runtime-main.js": "https://gyuhwung.github.io/csb-x1fxc/static/js/runtime-main.c1bf5bac.js",
+    "runtime-main.js.map": "https://gyuhwung.github.io/csb-x1fxc/static/js/runtime-main.c1bf5bac.js.map",
+    "static/js/2.ec76bf93.chunk.js": "https://gyuhwung.github.io/csb-x1fxc/static/js/2.ec76bf93.chunk.js",
+    "static/js/2.ec76bf93.chunk.js.map": "https://gyuhwung.github.io/csb-x1fxc/static/js/2.ec76bf93.chunk.js.map",
+    "index.html": "https://gyuhwung.github.io/csb-x1fxc/index.html",
+    "static/css/main.164d6266.chunk.css.map": "https://gyuhwung.github.io/csb-x1fxc/static/css/main.164d6266.chunk.css.map",
+    "static/js/2.ec76bf93.chunk.js.LICENSE.txt": "https://gyuhwung.github.io/csb-x1fxc/static/js/2.ec76bf93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1bf5bac.js",
+    "static/js/2.ec76bf93.chunk.js",
+    "static/css/main.164d6266.chunk.css",
+    "static/js/main.5edc71a7.chunk.js"
+  ]
+}
